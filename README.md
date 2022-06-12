@@ -2,13 +2,9 @@
 
 ![](demo.gif)
 
-### Application Demo -
+https://github.com/ankit-rajput-au46/react-todo-list
 
-https://ayushkul.github.io/react-todo-list
 
-### Video Tutorial -
-
-https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA
 
 ### Development steps-
 1. Create React App using npx create-react-app
